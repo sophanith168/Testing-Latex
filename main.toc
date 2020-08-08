@@ -1,0 +1,4 @@
+\contentsline {chapter}{\numberline {1}ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន}{3}% 
+\contentsline {section}{\numberline {1.1}សមីការភាពនៃឧស្ម័ន}{3}% 
+\contentsline {chapter}{\numberline {2}ច្បាប់ទី១ ទែម៉ូឌីណាមិច}{5}% 
+\contentsline {section}{\numberline {2.1}ច្បាប់ទី១ ទែម៉ូឌីណាមិច}{5}% 
